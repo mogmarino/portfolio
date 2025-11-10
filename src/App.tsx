@@ -33,7 +33,7 @@ function App() {
                 Currently, I’m strengthening my skills in software testing with Jest, clean code practices, and cloud infrastructure management, focusing on creating maintainable, efficient, and user-centered solutions.
               </p>
               <div className="space-y-4 mt-2">
-                <h2 className="text-xl font-semibold text-[#c9d1d9] mb-4">Contact me</h2>
+                <h2 className="text-xl font-semibold text-[#c9d1d9] mb-4 text-center md:text-left">Contact me</h2>
                 <div className="flex flex-wrap justify-center md:justify-start gap-3">
                   <a 
                     href="https://github.com/mogmarino"
